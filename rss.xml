@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Beer Tourist: Beer Food Lodging]]></title>
+        <description><![CDATA[A Beer Tourist: Beer Food Lodging]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 14 Oct 2015 13:44:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TailGate Beer - The Official Craft Beer of Tailgating - Nashville, TN -]]></title>
+            <description><![CDATA[<article><h1>TailGate Beer - The Official Craft Beer of Tailgating - Nashville, TN -</h1><img src="http://tailgatebeer.com/images/buttons/TGB_BeerButton_BlacktopBlonde_New.png"></article>]]></description>
+            <link>undefinedtailgate-beer-the-official-craft-beer-of-tailgating-nash/index.html</link>
+            <guid isPermaLink="false">b07bab80-45c1-4abf-9959-12d490d3c953</guid>
+            <pubDate>Wed, 14 Oct 2015 13:44:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
