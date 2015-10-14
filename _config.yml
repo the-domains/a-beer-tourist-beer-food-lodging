@@ -1,6 +1,7 @@
 name: 'A Beer Tourist: Beer Food Lodging'
 favicon: null
 layout_spectrum: 0.8
+typography_spectrum: 0.74111
 cta:
   domain: null
   bucket: null
