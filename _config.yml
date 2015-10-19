@@ -1,6 +1,6 @@
 name: 'A Beer Tourist: Beer Food Lodging'
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.49444
 typography_spectrum: 0.74111
 cta:
   domain: null
@@ -21,9 +21,9 @@ color:
     - '#a7dabe'
     - '#6fc294'
     - '#2fa765'
-  brandStrength: 0.75
+  brandStrength: 0.6875
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose:
   - name: follow
