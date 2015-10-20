@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Three days in Rocket City
-datePublished: '2015-10-20T18:40:05.713Z'
-dateModified: '2015-10-20T18:38:58.038Z'
+datePublished: '2015-10-20T19:05:30.909Z'
+dateModified: '2015-10-20T19:05:26.853Z'
 title: Huntsville Beer Weekend
 authors: []
 publisher:
